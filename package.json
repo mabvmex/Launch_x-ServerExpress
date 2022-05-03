@@ -1,0 +1,19 @@
+{
+  "name": "launch_x-serverexpress",
+  "version": "1.0.0",
+  "description": "Servidor Express Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabvmex/Launch_x-ServerExpress.git"
+  },
+  "author": "mabvmex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabvmex/Launch_x-ServerExpress/issues"
+  },
+  "homepage": "https://github.com/mabvmex/Launch_x-ServerExpress#readme"
+}
